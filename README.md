@@ -1,1 +1,3 @@
 # testverse
+
+npm install three
