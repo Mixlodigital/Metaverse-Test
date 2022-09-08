@@ -1,3 +1,3 @@
-# testverse
+# Metaverse-Test
 
 npm install three
